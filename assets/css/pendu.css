@@ -1,0 +1,10 @@
+body {
+  background-image: url(../css/pendu.png);
+  background-repeat: no-repeat;
+  background-position: 16cm;
+  background-color: brown;
+}
+h1 {
+  font-size: 48pt;
+  border-width: 2pt;
+}
